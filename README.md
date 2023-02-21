@@ -1,19 +1,19 @@
-## Senior Engineer (Quality Assurance) @Bkash. From :bangladesh:	 
+## Opensourcing Software Quality Assurance. From :bangladesh:	 
 
 #### Now
 
 - ✨ Getting into opensource.
 - :tv: Making videos on Automation testing.
-- :calendar:  learing all about microservices
+- :calendar:  Looking to contribute in testing opensource softwares.
 
 #### Bio
 
 - 🏢 I'm currently working at **bKash**
 - ⚙️ I use daily: `.py`, `.java`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Software Testing Commuinity**.
-- 🌱 Learning all about **DevOps**
+- 🌱 Learning all about **Testing**
 - 💬 Ping me about **Selenium**, **Rest Assured**, **Jmeter**, **Cucumber**, **Appium**
-- 📫 Subscribe me: [@tamannatestologie9933](https://www.youtube.com/@tamannatestologie9933)
+- 📫 Subscribe me: [@tamannatestology](https://www.youtube.com/@tamannatestology)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
