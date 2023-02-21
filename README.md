@@ -1,38 +1,19 @@
-## An Opensource contributor in Infra, Cloud, and DevOps space. From :bangladesh:	 
-
-<p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
-  </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
-  </a>
-
-</p>
+## Senior Engineer (Quality Assurance) @Bkash. From :bangladesh:	 
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to opensource project on infra & cloud domain 
+- ✨ Getting into opensource.
+- :tv: Making videos on Automation testing.
+- :calendar:  learing all about microservices
 
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
+- 🏢 I'm currently working at **bKash**
+- ⚙️ I use daily: `.py`, `.java`, `.yml`, `.sh`
+- 🌍 I'm mostly active within the **Software Testing Commuinity**.
 - 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- 💬 Ping me about **Selenium**, **Rest Assured**, **Jmeter**, **Cucumber**, **Appium**
+- 📫 Subscribe me: [@tamannatestologie9933](https://www.youtube.com/@tamannatestologie9933)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
@@ -47,36 +28,4 @@
 <img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
-</p>
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
-
-#### Connect With Me
-
-<p left="center">
-<a href="https://twitter.com/sudiptob2">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/sudiptob2/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://www.facebook.com/sudiptob2">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@sudiptob2">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="mailto:sudiptobaral.me@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
