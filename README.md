@@ -1,4 +1,4 @@
-## Experience in Quality Assurance, Test Automation, Mobile Financial Services(MFS)
+## Experienced in Quality Assurance, Test Automation, Mobile Financial Services(MFS)
 
 As a software quality assurance(SQA) engineer with over 4+ 
 years of experience in the **Mobile Financial Services (MFS)**
